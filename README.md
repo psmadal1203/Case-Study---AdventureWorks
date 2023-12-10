@@ -26,9 +26,10 @@ The Product Details dashboard offers insights into product-level trends and fore
 The Customer Details dashboard focuses on customer-centric metrics, helping the company identify high-value customers and tailor marketing and sales strategies accordingly.
 
 ## Dashboard Images
-1. [Executive Summary](/images/executive_summary.png)
-2. [Product Details](/images/product_details.png)
-3. [Customer Details](/images/customer_details.png)
+1. [Executive Summary](https://github.com/psmadal1203/Case-Study---AdventureWorks/blob/main/Executive%20Summary.JPG)
+2. [Product Details](https://github.com/psmadal1203/Case-Study---AdventureWorks/blob/main/Product%20Details.JPG)
+3. [Customer Details.JPG](https://github.com/psmadal1203/Case-Study---AdventureWorks/blob/main/Customer%20Details.JPG)
+
 
 ## Contributing
 Contributions are welcome! If you have suggestions, enhancements, or find any issues, please open an issue or submit a pull request.
